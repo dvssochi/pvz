@@ -812,22 +812,19 @@ a {
   position: relative !important;
 }
 .cid-tyFwHNKP0f .icons-menu-main {
-  display: none;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 150px;
 }
 @media (max-width: 991px) {
   .cid-tyFwHNKP0f .icons-menu-main {
     max-width: 100%;
     margin: 1rem 0 1rem 1rem;
-    display: flex;
   }
-}
-.cid-tyFwHNKP0f .mbr-section-btn-main {
-  display: none;
 }
 @media (max-width: 991px) {
   .cid-tyFwHNKP0f .mbr-section-btn-main {
     margin-top: 1rem;
-    display: block;
   }
 }
 .cid-tyFwHNKP0f .btn {
