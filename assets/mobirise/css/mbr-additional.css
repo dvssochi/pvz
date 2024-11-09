@@ -1674,6 +1674,89 @@ a {
 .cid-tyFwJqxE01 .mbr-card-text {
   color: #ffffff;
 }
+.cid-utzyhaRFVR {
+  padding-top: 5rem;
+  padding-bottom: 8rem;
+  background-color: #ffffff;
+}
+.cid-utzyhaRFVR .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-utzyhaRFVR .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-utzyhaRFVR .container {
+    padding: 0 16px;
+  }
+}
+.cid-utzyhaRFVR .image-wrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #dce2e3;
+  margin: 40px 70px 40px 0;
+  height: 290px;
+}
+@media (max-width: 992px) {
+  .cid-utzyhaRFVR .image-wrapper {
+    margin: 40px 0 80px 0;
+    height: 250px;
+  }
+}
+.cid-utzyhaRFVR .image-wrapper img {
+  position: absolute;
+  height: 400px;
+  border-radius: 16px;
+  object-fit: cover;
+  width: 80%;
+}
+@media (max-width: 768px) {
+  .cid-utzyhaRFVR .image-wrapper img {
+    height: 300px;
+  }
+}
+.cid-utzyhaRFVR .text-wrapper .mbr-section-title {
+  margin-bottom: 40px;
+}
+@media (max-width: 768px) {
+  .cid-utzyhaRFVR .text-wrapper .mbr-section-title {
+    margin-bottom: 20px;
+  }
+}
+.cid-utzyhaRFVR .text-wrapper .mbr-desc {
+  margin-bottom: 40px;
+}
+@media (max-width: 768px) {
+  .cid-utzyhaRFVR .text-wrapper .mbr-desc {
+    margin-bottom: 20px;
+  }
+}
+.cid-utzyhaRFVR .text-wrapper .mbr-text {
+  margin-bottom: 40px;
+}
+@media (max-width: 768px) {
+  .cid-utzyhaRFVR .text-wrapper .mbr-text {
+    margin-bottom: 20px;
+  }
+}
+.cid-utzyhaRFVR .mbr-section-title,
+.cid-utzyhaRFVR .mbr-section-btn {
+  color: #08323c;
+}
+.cid-utzyhaRFVR .mbr-desc {
+  color: #08323c;
+}
+.cid-utzyhaRFVR .mbr-text {
+  color: #08323c;
+}
 .cid-tyFwKyuBMa {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1778,7 +1861,7 @@ a {
   text-align: right;
 }
 .cid-tyFwMwJPf8 {
-  padding-top: 5rem;
+  padding-top: 3rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
@@ -1937,7 +2020,7 @@ a {
 }
 .cid-tUXbKLvVn1 {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 3rem;
   overflow: hidden;
   background-color: #ffffff;
 }
